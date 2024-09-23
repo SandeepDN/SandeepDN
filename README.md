@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SandeepDN
 - 👀 I’m interested in using tech to improve processes and generate value from data
 - 🌱 I’m currently learning AI
-- 💞️ I’m looking to collaborate on everything related to date. process and value generation using AI
+- 💞️ I’m looking to collaborate on everything related to data. process and value generation using AI
 - 📫 How to reach me ...here on Github
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Forever in learning mode
