@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SandeepDN
+- 👋 Hi, I’m @SandeepDN, CEO of Datanoetic
 - 👀 I’m interested in using tech to improve processes and generate value from data
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on everything related to data. process and value generation using AI
